@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lelibercensuumde05fabruoft_0097.png"; bbox 0 0 2455 3560; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1107 1018 1188 1070">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1107 1018 1188 1070">
+     <span class='ocr_line' id='line_1_1' title="bbox 1107 1018 1188 1070; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 1107 1018 1188 1070; x_wconf 89' lang='grc' dir='ltr'>ΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 870 1302 1430 1418">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 870 1302 1430 1418">
+     <span class='ocr_line' id='line_1_2' title="bbox 870 1302 1430 1418; baseline -0.021 1"><span class='ocrx_word' id='word_1_2' title='bbox 870 1302 1430 1418; x_wconf 58' lang='lat' dir='ltr'><strong>ALBINUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 271 1594 2045 1922">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 271 1594 2045 1922">
+     <span class='ocr_line' id='line_1_3' title="bbox 271 1594 2045 1693; baseline -0.018 1"><span class='ocrx_word' id='word_1_3' title='bbox 271 1629 577 1693; x_wconf 76' lang='lat' dir='ltr'><strong>GESTA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 641 1620 1118 1687; x_wconf 78' lang='lat' dir='ltr'><strong>PAUPERIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1182 1594 1650 1678; x_wconf 76' lang='lat' dir='ltr'>SCOLARIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1717 1603 2045 1668; x_wconf 68' lang='lat' dir='ltr'>ALBINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 894 1875 1439 1922; baseline -0.018 0"><span class='ocrx_word' id='word_1_7' title='bbox 894 1880 1132 1922; x_wconf 77' lang='lat' dir='ltr'><strong>LIVRES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1167 1879 1212 1917; x_wconf 81' lang='lat' dir='ltr'><strong>X</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1250 1877 1327 1915; x_wconf 84' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_10' title='bbox 1366 1875 1439 1913; x_wconf 75' lang='lat' dir='ltr'>XI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 623 2109 1715 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 623 2109 1715 2175">
+     <span class='ocr_line' id='line_1_5' title="bbox 623 2109 1715 2175; baseline -0.021 0"><span class='ocrx_word' id='word_1_11' title='bbox 623 2113 815 2175; x_wconf 70' lang='lat' dir='ltr'><strong>D’APRES</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 847 2123 899 2169; x_wconf 86' lang='lat' dir='ltr'>LE</span> <span class='ocrx_word' id='word_1_13' title='bbox 931 2116 1194 2167; x_wconf 64' lang='lat' dir='ltr'>MANUSCRIT</span> <span class='ocrx_word' id='word_1_14' title='bbox 1226 2110 1581 2160; x_wconf 18' lang='lat' dir='ltr'>OT&#39;l‘ossoNussxxus</span> <span class='ocrx_word' id='word_1_15' title='bbox 1613 2109 1715 2154; x_wconf 78' lang='lat'>5057</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
